@@ -54,11 +54,6 @@ Here are some ideas to get you started:
 ![Data Fusion](https://img.shields.io/badge/-Data%20Fusion-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Looker](https://img.shields.io/badge/-Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
-### Data Processing
-![Apache Beam](https://img.shields.io/badge/-Apache%20Beam-E25A1C?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-
 ## 🎓 Certifications
 - [Google Cloud Platform Professional Data Engineer](https://www.credly.com/badges/caa55019-c9b1-4877-9ecd-166efe3b5b72/public_url)
 
