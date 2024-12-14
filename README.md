@@ -65,13 +65,6 @@ Here are some ideas to get you started:
 - API Development and Integration
 - DevOps and CI/CD
 
-## 📈 GitHub Stats
-<p align="center">
-  <a href="https://github.com/PrathameshTugaonkar">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrathameshTugaonkar&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshTugaonkar&layout=compact&theme=radical"/>
-  </a>
-</p>
 
 ## 📫 How to reach me
 - 💼 LinkedIn: [Prathamesh Tugaonkar](https://www.linkedin.com/in/prathamesh-tugaonkar-7576b7117)
